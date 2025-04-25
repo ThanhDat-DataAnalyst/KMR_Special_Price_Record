@@ -106,7 +106,7 @@ const CONFIG = {
   },
 
   // Danh sách admin có quyền truy cập mọi team - Giữ nguyên
-  ADMINS: ['viet.truong@kamereo.vn','dat.pham@kamereo.vn', 'khanh.le@kamereo.vn','thanhbinh.le@kamereo.vn','hung.tran@kamereo.vn','kien.le@kamereo.vn'],
+  ADMINS: ['viet.truong@kamereo.vn','dat.pham@kamereo.vn', 'khanh.le@kamereo.vn','thanhbinh.le@kamereo.vn','hung.tran@kamereo.vn','kien.le@kamereo.vn','tranhungafd@gmail.com'],
 
   // Thời gian phiên làm việc (giờ) - Giữ nguyên
   SESSION_DURATION: 8,
