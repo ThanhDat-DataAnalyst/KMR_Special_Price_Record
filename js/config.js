@@ -47,7 +47,7 @@ const CONFIG = {
           name: 'KA Hotel-Convention Miền Bắc', 
           icon: '🏨', 
           description: '',
-          emails: ['tam.le@kamereo.vn','tuyen.nguyen@kamereo.vn'],
+          emails: ['tam.le@kamereo.vn','van.nguyen@kamereo.vn','trang.doan@kamereo.vn','tuuyen.nguyen@kamereo.vn'],
           sheet_id: '1GI3U3TTvxds0IQBBj-TFhA3YuEevXRYPUQ1XClxN1rw',
           sheet_name: 'Sheet1'
         }
