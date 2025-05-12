@@ -61,7 +61,7 @@ const CONFIG = {
           name: 'SME Horeca Miền Nam', 
           icon: '👥', 
           description: '',
-          emails: ['phong.ha@kamereo.vn','hieu.ngoc@kamereo.vn', 'vi.dang@kamereo.vn','duong.doan@kamereo.vn','tri.nguyen@kamereo.vn','kien.huynh@kamereo.vn','tram.nguyen@kamereo.vn','diuthuong.nguyen@kamereo.vn','yen.nguyen@kamereo.vn','nhan.luu@kamereo.vn','nguyen.hoang@kamereo.vn'],
+          emails: ['phong.ha@kamereo.vn','hieu.ngoc@kamereo.vn', 'vi.dang@kamereo.vn','duong.doan@kamereo.vn','tri.nguyen@kamereo.vn','kien.huynh@kamereo.vn','tram.nguyen@kamereo.vn','diuthuong.nguyen@kamereo.vn','yen.nguyen@kamereo.vn','nhan.luu@kamereo.vn','nguyen.hoang@kamereo.vn','thily.pham@kamereo.vn'],
           sheet_id: '1XkHZ_0PBzBLL-rhW5Ldb5YkxRfXm_WJKQrRYCgd7W5I',
           sheet_name: 'Sheet1'
         },
